@@ -1,0 +1,1 @@
+This is a complete ecommerce site with payment option using stripe.
